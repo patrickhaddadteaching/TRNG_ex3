@@ -26,11 +26,12 @@ The following libraries are required:
         conda install numpy
         conda install h5py
         conda install matplotlib
-        conda install -c conda-forge voila    ```
-    
+        conda install -c conda-forge voila    
+    ```
     * Now, you can either launch the notebook by executing the folowing command in the directory where you cloned this repositorie.
     ```
     jupyter-notebook.exe .\TRNG_ex3_nb.ipynb
+    
     ```
     
     * Or, you can directly launch it with voila  by executing the folowing command in the directory where you cloned this repositorie.
