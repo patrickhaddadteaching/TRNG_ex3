@@ -8,11 +8,12 @@ You should repeat the procedure for all possible $\frac{\sigma_{tot}}{T_{1}}$ an
 
 
 ## How to launch the exercise ?
-The exercise is a jupyter notebook compatible with voila.
+* We can execute this exercise on [Colab](https://colab.research.google.com/github/patrickhaddadteaching/TRNG_ex3/blob/main/TRNG_ex3_nb.ipynb)
+* The exercise is a jupyter notebook compatible with voila.
 The following libraries are required:
-* numpy
-* h5py
-* matplotlib
+    * numpy
+    * h5py
+    * matplotlib
 ## Examples of procedures to execute the exercise with different systems.
 1. Windows
     * First of all, Let clone this repositorie
